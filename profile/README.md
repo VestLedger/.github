@@ -1,21 +1,21 @@
-# DealSphere Inc
+# VestLedger Inc
 
-> Makers of the **DealSphere Platform** — The Future of Enterprise Deal Management on R3 Corda 5
+> Makers of the **VestLedger Platform** — The Future of Enterprise Deal Management on R3 Corda 5
 
 ---
 
-## Why DealSphere?
+## Why VestLedger?
 
-DealSphere Inc revolutionizes how enterprises manage complex business deals through our flagship **DealSphere Platform** — a comprehensive SaaS solution built on R3 Corda 5. We transform traditional deal management from fragmented, manual processes into streamlined, transparent, and secure digital workflows.
+VestLedger Inc revolutionizes how enterprises manage complex business deals through our flagship **VestLedger Platform** — a comprehensive SaaS solution built on R3 Corda 5. We transform traditional deal management from fragmented, manual processes into streamlined, transparent, and secure digital workflows.
 
 ### Our Mission
 To empower enterprises with next-generation deal management technology that ensures transparency, security, and efficiency at every stage of the business lifecycle.
 
 ---
 
-## Product Overview: DealSphere Platform
+## Product Overview: VestLedger Platform
 
-The **DealSphere Platform** is a modular, enterprise-grade SaaS solution comprising 13 integrated modules:
+The **VestLedger Platform** is a modular, enterprise-grade SaaS solution comprising 13 integrated modules:
 
 ### Core Modules (1-7)
 
@@ -166,26 +166,26 @@ The **DealSphere Platform** is a modular, enterprise-grade SaaS solution compris
 ## Contact
 
 ### Sales & Partnerships
-- **Enterprise Sales**: sales@dealsphere.com
-- **Channel Partners**: partners@dealsphere.com
+- **Enterprise Sales**: sales@vestledger.com
+- **Channel Partners**: partners@vestledger.com
 - **Phone**: +1 (555) 123-DEAL
 
 ### Technical Support
-- **Developer Support**: developers@dealsphere.com
-- **Customer Success**: success@dealsphere.com
-- **Documentation**: https://docs.dealsphere.com
+- **Developer Support**: developers@vestledger.com
+- **Customer Success**: success@vestledger.com
+- **Documentation**: https://docs.vestledger.com
 
 ### Corporate
-- **General Inquiries**: info@dealsphere.com
-- **Media & Press**: press@dealsphere.com
-- **Careers**: careers@dealsphere.com
-- **Website**: https://dealsphere.com
+- **General Inquiries**: info@vestledger.com
+- **Media & Press**: press@vestledger.com
+- **Careers**: careers@vestledger.com
+- **Website**: https://vestledger.com
 
 ---
 
 ## License
 
-### DealSphere Platform
+### VestLedger Platform
 - **Commercial License**: Enterprise SaaS subscription model
 - **API License**: Developer and integration partner licensing available
 - **Data License**: Customer data remains fully owned by customer
@@ -203,4 +203,4 @@ The **DealSphere Platform** is a modular, enterprise-grade SaaS solution compris
 
 ---
 
-**DealSphere Inc** | Transforming Enterprise Deal Management | Powered by R3 Corda 5
+**VestLedger Inc** | Transforming Enterprise Deal Management | Powered by R3 Corda 5
